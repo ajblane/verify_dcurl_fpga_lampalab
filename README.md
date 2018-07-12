@@ -1,7 +1,7 @@
 
 Prerequisites
 ---
-* need to build Lampalab/iota_fpga environment
+* need to build a Lampalab/iota_fpga environment
 
 Quickly start
 ---
